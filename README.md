@@ -1,60 +1,55 @@
-# md-resume
-
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
-
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+# <div align="center">Youchen (Hudson) Xie</div>
+<div align="center">2089487864 • xie18001@byui.edu • https://www.linkedin.com/in/hudson-xie-ab4a47251/</div>
 
 ***
 
-## Customization
+## Education
+**Brigham Young University - Idaho**  
+_Bachelor of Science, Business Analytics_  
+• Minor in Dance  
+• 4.0 GPA since 2022  
+• Organizational leadership  
+• Financial accounting  
+• Marketing management  
+• Chinese (Native), English (Proficient), German (Basic)  
+• Proficient in Microsoft Office, including Word, Excel and Powerpoint  
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+***
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+## Experience
+**Marsh McLennan**  
+_High-Tech Group A Intern_  
+• Collated terms and conditions on insurance contracts, making sure dates, terms, and signatures on contracts were correct and precise 
+for two hours each day.  
+• Inputted and recorded insurance invoices into computer. Combined thousands of personal and corporate clientele data and statistics.  
+• Transferred statistics into visualized forms to present to team members weekly.  
+• Engaged in weekly insurance cooperation negotiations to determine terms of insurance rate and fee with clients.  
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+**Dotc United Group**  
+_Operation Department Intern_  
+• Monitored content made daily by online influencers to ensure media is aligned with community guidelines.  
+• Distributed bonus performance awards in cash for top ranked online influencers.  
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+**Shanghai Tencent Technology Company**  
+_Logistical Department Intern_  
+• Completed yearly fire safety inspections in three different office buildings.  
+• Engaged in weekly inventory and material verification to ensure company's properties are aligned with its inventory report.  
+• Conducted quarterly employee satisfaction surveys, and implemented input to satisfied accessible requests.  
 
-adding your skills, jobs and education.
+**Shanghai Media and Entertainment Group**  
+_Operation Intern_  
+• Designed three visual advertisement to promote cast and scene of musical "Smoke".  
+• Photographed final fittings for two hours, organized and sent pictures to directors.  
+• Choreographed and coached three dances for childrens' summer camp musical.  
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+## Achievements
+• Third Place in Idaho Gem State Dancesport Competition out of 28 couples  
+• Finalist in Utah Classic Dancesport Competition out of 48 couples  
+• National Championship of China Dancesport Competition  
+• Served as a volunteer for Blackpool Dance Festival in 2016  
 
-## Distribution
-
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
-
-### I. Use Github Pages to publish it online
-
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
-
-![](docs_setup.png)
-
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
-
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
-
-## Styling
-
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
-
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+## Summary
+Dance has been a part of my life for 16 years, helping me communicate and express myself. Through years of training, I've developed 
+persistence, teamwork skills, pressure management, and adaptability. Choreography has sparked my interest in creation. Teaching others 
+brings me happiness and improves my knowledge sharing. Dance has helped me develop qualities that benefit me personally, academically, and 
+professionally.
